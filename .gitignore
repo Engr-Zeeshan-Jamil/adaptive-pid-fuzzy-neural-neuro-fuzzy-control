@@ -1,0 +1,12 @@
+# MATLAB temporary and cache files
+*.asv
+*.m~
+*.slxc
+slprj/
+codegen/
+*.mex*
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
