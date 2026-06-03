@@ -28,13 +28,6 @@ Open MATLAB, set the current folder to this repository, and run:
 open_system('Final_Completed_Assignment_Model_Zeeshan_Jamil.slx')
 out = sim('Final_Completed_Assignment_Model_Zeeshan_Jamil');
 
-# MATLAB temporary and cache files
-*.asv
-*.m~
-*.slxc
-slprj/
-codegen/
-*.mex*
 *.log
 
 # OS files
